@@ -1,0 +1,9 @@
+Great Weapon Type: Great Sword
+Reach: 5ft
+Hit Bonus: +6
+Damage: 1d8+5
+
+Arcing Strike: 
+ This weapon is built around a chain that the weilder can extend and restrict at will. This increases the range of attacks as well as the number of targets that can be hit one swing
+- While the chain is extended this weapons reach is doubled
+- Wide Swing - Attack three targets within range in one swing, dealing 1d6+5 to each target

@@ -1,0 +1,3 @@
+def safetyloop(code):
+  pass
+  
